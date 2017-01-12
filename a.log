@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.1.11)  12 JAN 2017 19:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.1.11)  12 JAN 2017 19:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -7,9 +7,9 @@ entering extended mode
 (./a.tex
 LaTeX2e <2016/03/31> patch level 3
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
-(d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/tex/latex/base/article.cls
+(d:/Program Files/texlive/2016/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/tex/latex/base/size10.clo
+(d:/Program Files/texlive/2016/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -40,17 +40,17 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
  [1
 
-{d:/Software/Document Edit/LaTeX/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./a.aux) ) 
+{d:/Program Files/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./a.aux) ) 
 Here is how much of TeX's memory you used:
- 202 strings out of 493013
- 2280 string characters out of 6130541
+ 201 strings out of 493013
+ 2147 string characters out of 6130541
  53632 words of memory out of 5000000
  3831 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  23i,4n,17p,127b,107s stack positions out of 5000i,500n,10000p,200000b,80000s
-<d:/Software/Document Edit/LaTeX/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on a.pdf (1 page, 11566 bytes).
+<d:/Program Files/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on a.pdf (1 page, 13240 bytes).
 PDF statistics:
  12 PDF objects out of 1000 (max. 8388607)
  7 compressed objects within 1 object stream
